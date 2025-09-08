@@ -18,7 +18,7 @@ go get -u github.com/admgo/api-template
 cd scripts
 ./api-gen.sh
 ```
-#### 2. run in root dir
+#### 3. run in root dir
 ```shell
 go run cmd/server/main.go
 ```
